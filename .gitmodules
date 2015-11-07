@@ -1,0 +1,3 @@
+[submodule "content/themes/vno"]
+	path = content/themes/vno
+	url = git@github.com:kimimaro/vno.git
