@@ -1,3 +1,6 @@
 [submodule "content/themes/vno"]
 	path = content/themes/vno
 	url = git@github.com:kimimaro/vno.git
+[submodule "content/themes/ghostium"]
+	path = content/themes/ghostium
+	url = git@github.com:kimimaro/ghostium.git
